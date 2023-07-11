@@ -1,4 +1,5 @@
 # Dictionary-tui
+A tui for dictionaryapi.com to search for Synonyms and Antonyms
 
 ### Api Key
 First go to https://dictionaryapi.com/
